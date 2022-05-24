@@ -2,7 +2,7 @@
 ### I'm a Lisp and Mobile developer, currently working with Common Lisp and Flutter
 <hr>
 
-#### Currently providing services to the@brisanet.oficial company.
+#### Currently providing services to the @brisanet.oficial company.
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=juniornsantos&color=223140" alt="Profile views" /> 
