@@ -33,5 +33,6 @@
   <a href = "frjuniornogueira1@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/kayooliveira/kayooliveira/blob/output/github-contribution-grid-snake.svg)
+  ![Andre GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=juniornsantos&hide_border=true&theme=redical)
  
 </div>
