@@ -30,7 +30,7 @@
   <a href="https://www.youtube.com/channel/UCEN2fbimCETkUNE4Y8Tg6Dw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jr.nogueira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="discordapp.com/users/Júnior Nogueira#7458" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "frjuniornogueira1@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
+  <a href = "mailto:frjuniornogueira1@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
  
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
