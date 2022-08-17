@@ -23,8 +23,10 @@
   <img align="center" alt="Junior-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Junior-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 
+	
 </div>
  
+	
   
 <div> 
   <a href="https://www.youtube.com/channel/UCEN2fbimCETkUNE4Y8Tg6Dw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
