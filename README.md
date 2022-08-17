@@ -22,7 +22,6 @@
   <img align="center" alt="Junior-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Junior-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Junior-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-
 </div>
  
 #	
@@ -39,7 +38,7 @@
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
 
-##
+#
 
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=juniornsantos&hide_border=true&theme=redical)
   
