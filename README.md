@@ -40,7 +40,8 @@
 
 #
 
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=juniornsantos&hide_border=true&theme=redical)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
+
   
  
 </div>
