@@ -15,6 +15,7 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 <!-- <img align="left" width="300px" height="220px" src="./img/10.gif" alt="anime coding"> -->
 <img align="right" alt="GIF" src="./assets/5.gif" width="350" height="350" />
 
+<br>
 **Falando algumas coisas:**
 
 - <img src="./assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente prestando serviços para a empresa @brisanet.oficial.;
