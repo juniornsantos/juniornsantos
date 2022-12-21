@@ -16,7 +16,8 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 <img align="right" alt="GIF" src="./assets/5.gif" width="350" height="350" />
 
 <br>
-**Falando algumas coisas:**
+
+😀 **Falando algumas coisas:**
 
 - <img src="./assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente prestando serviços para a empresa @brisanet.oficial.;
 - <img src="./assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente estou aprendendo Estruturas de Dados, Dart, Flutter;
@@ -25,7 +26,7 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 - <img src="./assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Portfolio](https://juniornsantos.github.io/portfolio_Junior/#home).
 </br>
 
-📊 **Esta semana eu gastei meu tempo em:** 📊
+📊 **Esta semana eu gastei meu tempo em:**
 
 
 <div style="display: inline_block">
@@ -41,7 +42,7 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 <br>
 <br>
 
-📈 **Minhas estatísticas do GitHub:** 📈
+📈 **Minhas estatísticas do GitHub:** 
 
 <div align="center">
   <a href="https://github.com/juniornsantos">
