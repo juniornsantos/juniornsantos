@@ -24,11 +24,10 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 - <img src="./assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Portfolio](https://juniornsantos.github.io/portfolio_Junior/#home).
 </br>
 
-📊 **Esta semana eu gastei meu tempo em:**
+📊 **Esta semana eu gastei meu tempo em:** 📊
 
 
 <div style="display: inline_block">
-  <br>
   <img align="center" alt="Junior-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -41,7 +40,7 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 <br>
 <br>
 
-📈 **Minhas estatísticas do GitHub:**
+📈 **Minhas estatísticas do GitHub:** 📈
 
 <div align="center">
   <a href="https://github.com/juniornsantos">
