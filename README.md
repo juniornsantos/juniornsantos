@@ -19,7 +19,7 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 
 😀 **Falando algumas coisas:**
 
-- <img src="./assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente prestando serviços para a empresa @brisanet.oficial.;
+- <img src="./assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente prestando serviços para a empresa [@Grupo Brisanet](https://www.brisanet.com.br/);
 - <img src="./assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente estou aprendendo Estruturas de Dados, Dart, Flutter;
 - <img src="./assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Pergunte-me sobre qualquer coisa, Fico feliz em ajudar;
 - <img src="./assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Contato: frjuniornogueira1@gmail.com;
