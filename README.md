@@ -9,7 +9,7 @@
 
 ### Contente por te ver aqui! &nbsp; <img src="https://komarev.com/ghpvc/?username=juniornsantos&color=red" alt="Profile views" />
 
-Eu sou um desenvolvedor full-stack. Amo programar, resolver problemas e viajar.
+Eu sou um desenvolvedor full-stack. amo programar, resolver problemas e viajar.
 
 Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu amor inequívoco por fazer coisas que mudam o mundo. É por isso que gosto de fazer coisas que fazem a diferença.
 <!-- <img align="left" width="300px" height="220px" src="./img/10.gif" alt="anime coding"> -->
@@ -27,16 +27,18 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 - <img src="./assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Portfolio](https://juniornsantos.github.io/portfolio_Junior/#home).
 </br>
 
+
 📊 **Esta semana eu gastei meu tempo em:**
 
 
 <div style="display: inline_block">
-  <img align="center" alt="Junior-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Junior-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Junior-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Junior-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Junior-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Junior-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Junior-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Junior-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 <br>
