@@ -21,7 +21,7 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
 
 - <img src="./assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente prestando serviços para a empresa [@Grupo Brisanet](https://www.brisanet.com.br/);
 - <img src="./assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente estou aprendendo Estruturas de Dados, Dart, Flutter;
-- <img src="./assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Sou Especialista em desenho técnico [@Expert Elite](https://www.autodesk.com.br/expert-elite/overview) [AutoCAD, C3D, Maya, 3Ds MAX]  ;<img src="./assets/autodesk-expert-elite-logo_1line-rgb-black.png?raw=true" height="18"/>
+- <img src="./assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Sou Especialista em desenho técnico [@Expert Elite](https://www.autodesk.com.br/expert-elite/overview) [AutoCAD, C3D, Maya, 3Ds MAX]. <img src="./assets/autodesk-expert-elite-logo_1line-rgb-white.png?raw=true" height="17"/>
 - <img src="./assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Pergunte-me sobre qualquer coisa, Fico feliz em ajudar;
 - <img src="./assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Contato: frjuniornogueira1@gmail.com;
 - <img src="./assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Portfolio](https://juniornsantos.github.io/portfolio_Junior/#home).
@@ -40,6 +40,7 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Junior-AutoCAD" height="30" width="40" src="./assets/autodesk-autocad-product-icon.svg">
+  <img align="center" alt="Junior-Maya" height="30" width="40" src="./assets/autodesk-maya-product-icon.svg">
   <img align="center" alt="Junior-3DsMax" height="30" width="40" src="./assets/autodesk-3ds-max-product-icon.svg">
 </div>
 
