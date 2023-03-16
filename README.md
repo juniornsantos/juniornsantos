@@ -9,7 +9,8 @@
 
 ### Contente por te ver aqui! &nbsp; <img src="https://komarev.com/ghpvc/?username=juniornsantos&color=red" alt="Profile views" />
 
-Eu sou um desenvolvedor full-stack. amo programar, resolver problemas e viajar.
+Um homem excepcional passando por situações extraordinárias!👊🏻
+<br>Eu sou um desenvolvedor full-stack. Gosto de programar, resolver problemas e viajar.
 
 Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu amor inequívoco por fazer coisas que mudam o mundo. É por isso que gosto de fazer coisas que fazem a diferença.
 <!-- <img align="left" width="300px" height="220px" src="./img/10.gif" alt="anime coding"> -->
