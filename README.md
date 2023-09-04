@@ -38,6 +38,7 @@ Como desenvolvedor, gosto de usar minha atenção obsessiva aos detalhes, meu am
   <img align="center" alt="Junior-LISP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg"> 
   <img align="center" alt="Junior-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Junior-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Junior-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">  
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Junior-AutoCAD" height="30" width="40" src="./assets/autodesk-autocad-product-icon.svg">
